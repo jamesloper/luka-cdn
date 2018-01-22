@@ -1,2 +1,1 @@
-# luka-cdn
-Luka public files
+All the beautiful files of Luka are stored here
